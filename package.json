@@ -1,10 +1,10 @@
 {
-  "name": "@gcc/core",
+  "name": "@gcc2/core",
   "version": "0.0.0",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "gcc",
+    "name": "gcc2",
     "triples": {
       "additional": [
         "aarch64-apple-darwin",

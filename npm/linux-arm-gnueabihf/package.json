@@ -1,5 +1,5 @@
 {
-  "name": "@gcc/core-linux-arm-gnueabihf",
+  "name": "@gcc2/core-linux-arm-gnueabihf",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm"
   ],
-  "main": "gcc.linux-arm-gnueabihf.node",
+  "main": "gcc2.linux-arm-gnueabihf.node",
   "files": [
-    "gcc.linux-arm-gnueabihf.node"
+    "gcc2.linux-arm-gnueabihf.node"
   ],
   "license": "MIT",
   "engines": {

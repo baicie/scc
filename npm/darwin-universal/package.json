@@ -1,12 +1,12 @@
 {
-  "name": "@gcc/core-darwin-universal",
+  "name": "@gcc2/core-darwin-universal",
   "version": "0.0.0",
   "os": [
     "darwin"
   ],
-  "main": "gcc.darwin-universal.node",
+  "main": "gcc2.darwin-universal.node",
   "files": [
-    "gcc.darwin-universal.node"
+    "gcc2.darwin-universal.node"
   ],
   "license": "MIT",
   "engines": {

@@ -1,3 +1,3 @@
-# `@gcc/core-linux-arm64-musl`
+# `@gcc2/core-linux-arm64-musl`
 
-This is the **aarch64-unknown-linux-musl** binary for `@gcc/core`
+This is the **aarch64-unknown-linux-musl** binary for `@gcc2/core`

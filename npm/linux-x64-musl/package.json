@@ -1,5 +1,5 @@
 {
-  "name": "@gcc/core-linux-x64-musl",
+  "name": "@gcc2/core-linux-x64-musl",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "gcc.linux-x64-musl.node",
+  "main": "gcc2.linux-x64-musl.node",
   "files": [
-    "gcc.linux-x64-musl.node"
+    "gcc2.linux-x64-musl.node"
   ],
   "license": "MIT",
   "engines": {

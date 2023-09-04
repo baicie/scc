@@ -1,5 +1,5 @@
 {
-  "name": "@gcc/core-darwin-x64",
+  "name": "@gcc2/core-darwin-x64",
   "version": "0.0.0",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "gcc.darwin-x64.node",
+  "main": "gcc2.darwin-x64.node",
   "files": [
-    "gcc.darwin-x64.node"
+    "gcc2.darwin-x64.node"
   ],
   "license": "MIT",
   "engines": {

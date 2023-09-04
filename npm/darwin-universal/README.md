@@ -1,3 +1,3 @@
-# `@gcc/core-darwin-universal`
+# `@gcc2/core-darwin-universal`
 
-This is the **universal-apple-darwin** binary for `@gcc/core`
+This is the **universal-apple-darwin** binary for `@gcc2/core`
