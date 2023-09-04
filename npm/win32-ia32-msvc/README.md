@@ -1,3 +1,3 @@
-# `scc-win32-ia32-msvc`
+# `@gcc/core-win32-ia32-msvc`
 
-This is the **i686-pc-windows-msvc** binary for `scc`
+This is the **i686-pc-windows-msvc** binary for `@gcc/core`

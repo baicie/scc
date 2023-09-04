@@ -1,3 +1,3 @@
-# `scc-linux-arm64-gnu`
+# `@gcc/core-linux-arm64-gnu`
 
-This is the **aarch64-unknown-linux-gnu** binary for `scc`
+This is the **aarch64-unknown-linux-gnu** binary for `@gcc/core`

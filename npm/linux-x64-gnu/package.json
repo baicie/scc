@@ -1,5 +1,5 @@
 {
-  "name": "scc-linux-x64-gnu",
+  "name": "@gcc/core-linux-x64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "scc.linux-x64-gnu.node",
+  "main": "gcc.linux-x64-gnu.node",
   "files": [
-    "scc.linux-x64-gnu.node"
+    "gcc.linux-x64-gnu.node"
   ],
   "license": "MIT",
   "engines": {

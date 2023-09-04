@@ -1,3 +1,3 @@
-# `scc-win32-arm64-msvc`
+# `@gcc/core-win32-arm64-msvc`
 
-This is the **aarch64-pc-windows-msvc** binary for `scc`
+This is the **aarch64-pc-windows-msvc** binary for `@gcc/core`

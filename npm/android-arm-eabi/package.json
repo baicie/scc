@@ -1,5 +1,5 @@
 {
-  "name": "scc-android-arm-eabi",
+  "name": "@gcc/core-android-arm-eabi",
   "version": "0.0.0",
   "os": [
     "android"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm"
   ],
-  "main": "scc.android-arm-eabi.node",
+  "main": "gcc.android-arm-eabi.node",
   "files": [
-    "scc.android-arm-eabi.node"
+    "gcc.android-arm-eabi.node"
   ],
   "license": "MIT",
   "engines": {

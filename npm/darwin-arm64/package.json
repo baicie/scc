@@ -1,5 +1,5 @@
 {
-  "name": "scc-darwin-arm64",
+  "name": "@gcc/core-darwin-arm64",
   "version": "0.0.0",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "scc.darwin-arm64.node",
+  "main": "gcc.darwin-arm64.node",
   "files": [
-    "scc.darwin-arm64.node"
+    "gcc.darwin-arm64.node"
   ],
   "license": "MIT",
   "engines": {

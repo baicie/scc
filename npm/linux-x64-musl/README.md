@@ -1,3 +1,3 @@
-# `scc-linux-x64-musl`
+# `@gcc/core-linux-x64-musl`
 
-This is the **x86_64-unknown-linux-musl** binary for `scc`
+This is the **x86_64-unknown-linux-musl** binary for `@gcc/core`

@@ -1,3 +1,3 @@
-# `scc-darwin-x64`
+# `@gcc/core-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `scc`
+This is the **x86_64-apple-darwin** binary for `@gcc/core`

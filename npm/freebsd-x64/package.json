@@ -1,5 +1,5 @@
 {
-  "name": "scc-freebsd-x64",
+  "name": "@gcc/core-freebsd-x64",
   "version": "0.0.0",
   "os": [
     "freebsd"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "scc.freebsd-x64.node",
+  "main": "gcc.freebsd-x64.node",
   "files": [
-    "scc.freebsd-x64.node"
+    "gcc.freebsd-x64.node"
   ],
   "license": "MIT",
   "engines": {

@@ -1,3 +1,3 @@
-# `scc-android-arm-eabi`
+# `@gcc/core-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `scc`
+This is the **armv7-linux-androideabi** binary for `@gcc/core`

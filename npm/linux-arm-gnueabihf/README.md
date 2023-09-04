@@ -1,3 +1,3 @@
-# `scc-linux-arm-gnueabihf`
+# `@gcc/core-linux-arm-gnueabihf`
 
-This is the **armv7-unknown-linux-gnueabihf** binary for `scc`
+This is the **armv7-unknown-linux-gnueabihf** binary for `@gcc/core`
