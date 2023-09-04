@@ -1,0 +1,15 @@
+{
+  "name": "scc-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "scc.darwin-universal.node",
+  "files": [
+    "scc.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
